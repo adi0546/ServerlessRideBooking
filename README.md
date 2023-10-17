@@ -1,6 +1,8 @@
 # ServerlessRideBooking
 Practice application to learn cloud technologies.
 
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
+
 Uses AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito
 
 Amazon Cognito to authenticate users
